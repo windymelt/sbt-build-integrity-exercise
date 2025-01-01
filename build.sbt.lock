@@ -16,7 +16,7 @@
       "artifacts" : [
         {
           "name" : "scala-library.jar",
-          "hash" : "sha1:ed6f1d58968b16c5f9067d5cac032d952552de58"
+          "hash" : "sha1:ed6f1d58968b16c5f9067d5cac032d952552de59"
         }
       ],
       "configurations" : [
