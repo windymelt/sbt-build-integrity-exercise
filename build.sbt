@@ -6,4 +6,7 @@ lazy val root = project
   .settings(
     name := "core",
     scalaVersion := "3.6.2",
+    libraryDependencies ++= Seq(
+      "com.lihaoyi" %% "os-lib" % "0.11.3"
+    )
   )
