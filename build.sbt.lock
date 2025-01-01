@@ -1,6 +1,6 @@
 {
   "lockVersion" : 1,
-  "timestamp" : "2024-12-30T08:28:57.081Z",
+  "timestamp" : "2025-01-01T10:07:00.780Z",
   "configurations" : [
     "compile",
     "optional",
@@ -10,45 +10,13 @@
   ],
   "dependencies" : [
     {
-      "org" : "com.lihaoyi",
-      "name" : "geny_3",
-      "version" : "1.1.1",
-      "artifacts" : [
-        {
-          "name" : "geny_3.jar",
-          "hash" : "sha1:6a194169956dc7c5e64d29cec05b64da9e2fc94a"
-        }
-      ],
-      "configurations" : [
-        "compile",
-        "runtime",
-        "test"
-      ]
-    },
-    {
-      "org" : "com.lihaoyi",
-      "name" : "os-lib_3",
-      "version" : "0.11.3",
-      "artifacts" : [
-        {
-          "name" : "os-lib_3.jar",
-          "hash" : "sha1:fc905295223c96ccf30b684812bfd968dd3acb63"
-        }
-      ],
-      "configurations" : [
-        "compile",
-        "runtime",
-        "test"
-      ]
-    },
-    {
       "org" : "org.scala-lang",
       "name" : "scala-library",
       "version" : "2.13.15",
       "artifacts" : [
         {
           "name" : "scala-library.jar",
-          "hash" : "sha1:ed6f1d58968b16c5f9067d5cac032d952552de59"
+          "hash" : "sha1:ed6f1d58968b16c5f9067d5cac032d952552de58"
         }
       ],
       "configurations" : [
